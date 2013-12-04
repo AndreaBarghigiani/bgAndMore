@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array",
+				"array"
+			],
+			[
+				"form_",
+				"form_id"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"get_que",
+				"get_query_var"
+			],
+			[
+				"unserializ",
+				"unserialize()"
+			],
+			[
+				"get_post_th",
+				"get_the_post_thumbnail"
+			],
+			[
+				"var_dump",
+				"var_dump()"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"is_user_",
+				"is_user_logged_in"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"css",
+				"csshero_config_main"
+			],
+			[
+				"cssher",
+				"csshero_declare_item"
+			],
+			[
+				"csshero",
+				"csshero_config_header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"to",
+				"Toggle Block Comment"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"synta sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"togg",
+				"Toggle Block Comment"
+			],
+			[
+				"tog",
+				"Toggle Block Comment"
+			],
+			[
+				"comm",
+				"Snippet: Comment Form Template"
+			],
+			[
+				"php ",
+				"Snippet: The Loop"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"FTPSync: Upload current file"
+			],
+			[
+				"ftp se",
+				"FTPSync: Setup FTPSync in this folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Sviluppo/www/bgAM/wp-content/themes/bgAndMore/style.css",
+		"/Volumes/Backup Dati/WebDesign/NuoviLavori/Freelancer/Marco-eCommerce/temi/mystile-mec/themes/bones/style.css",
+		"/Volumes/Dati/WebDesign/NuoviLavori/Freelancer/Marco-eCommerce/temi/mystile-mec/themes/bones/style.css",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Volumes/Sviluppo/www/bgAM/wp-config.php",
+		"/private/var/folders/4f/cv6x8fn53cxcr83lsl0qwd580000gn/T/a689fad8-30b9-4731-bcd5-ca06ef589cc2/public_html/blogam/wp-config.php",
+		"/Volumes/Sviluppo/www/h5AM/Movefile",
+		"/private/var/folders/4f/cv6x8fn53cxcr83lsl0qwd580000gn/T/a689fad8-30b9-4731-bcd5-ca06ef589cc2/public_html/html5/wp-config.php",
+		"/private/var/folders/4f/cv6x8fn53cxcr83lsl0qwd580000gn/T/a689fad8-30b9-4731-bcd5-ca06ef589cc2/wp-config.php",
+		"/Volumes/Sviluppo/www/wpandmore_local/Movefile",
+		"/private/var/folders/4f/cv6x8fn53cxcr83lsl0qwd580000gn/T/a689fad8-30b9-4731-bcd5-ca06ef589cc2/public_html/index.php",
+		"/Volumes/Sviluppo/www/wpandmore_local/Movefile_back",
+		"/Volumes/Sviluppo/www/wpandmore_local/Movefile_back2",
+		"/Volumes/Sviluppo/www/videoandmore_local/Movefile",
+		"/Volumes/Sviluppo/www/vdAM/wp-config.php",
+		"/Volumes/Sviluppo/www/videoandmore_local/wp-config.php",
+		"/Volumes/Sviluppo/www/wpandmore_local/wp-config.php",
+		"/Volumes/Sviluppo/www/vdAM/Movefile",
+		"/Users/andreabarghigiani/Desktop/deletable/download",
+		"/Volumes/Sviluppo/www/vdandmore_local/Movefile",
+		"/Volumes/Sviluppo/www/wpAMclone/Movefile",
+		"/private/var/folders/4f/cv6x8fn53cxcr83lsl0qwd580000gn/T/a689fad8-30b9-4731-bcd5-ca06ef589cc2/public_html/php.ini",
+		"/private/var/folders/4f/cv6x8fn53cxcr83lsl0qwd580000gn/T/a689fad8-30b9-4731-bcd5-ca06ef589cc2/public_html/error_log",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/functions.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/framework/kernel/hooks.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/featured.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/includes/theme-functions.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/loop-ad_listing.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/includes/theme-refine.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/plugins/events-manager/templates/events-list.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/loop-mercatino.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/Movefile",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/sidebar.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/tpl-homepage.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/page-5.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/includes/admin/admin-post-types.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/includes/theme-options.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/search.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/style.css",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/events-manager/templates/events-list.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus/wrapper.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/wp-config.php",
+		"/Volumes/Sviluppo/www/trueIdeaMus/trueIdeaMus.sublime-project",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/wrapper.php",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/featured.php",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/sass/base.scss",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/includes/theme-functions.php",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/tpl-homepage.php",
+		"/private/var/folders/4f/cv6x8fn53cxcr83lsl0qwd580000gn/T/59ec3f99-3b50-4efe-abd9-9de5055cba5c/wp-config.php",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/tpl-ads-home.php",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/loop-ad_listing.php",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/plugins/pointelle-slider/license.txt",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/includes/admin/admin-settings.php",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/removed_responsive.css",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/header.php",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/style.css",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/includes/theme-searchbar.php",
+		"/Users/andreabarghigiani/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/featured.php",
+		"/Users/andreabarghigiani/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/styles/custom.css",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus/new-ideamus.sublime-project",
+		"/Volumes/Sviluppo/www/new-ideamus/wp-config.php",
+		"/Applications/MAMP/conf/my.cnf",
+		"/Users/andreabarghigiani/Desktop/deletable/ideamus_new_andrea.sql",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/styles/custom.css",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/styles/scustom.css",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/header.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/includes/theme-searchbar.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/base.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/wrapper.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/tpl-ads-home.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/ftpsync.settings",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/custom.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/style.css",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/800top.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/940top.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/tpl-submenu-search.php",
+		"/Users/andreabarghigiani/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Volumes/Sviluppo/www/ideamus/ideamus.sublime-project",
+		"/Volumes/Sviluppo/www/test_cp/wp-content/themes/classipress/style.css",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/includes/theme-enqueue.php",
+		"/Applications/MAMP/conf/apache/testwp.com.conf",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/includes/theme-functions.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/600top.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/tpl-homepage.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/320top.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/400top.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/loop-ad_listing.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/removed_responsive.css",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/800up.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/600up.scss",
+		"/Volumes/Dati/WebDesign/NuoviLavori/Freelancer/Marco-eCommerce/temi/mystile-mec/themes/bones/library/scss/style.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/940up.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/400up.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/sass/320up.scss",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/404.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/test-launch.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/tpl-my-homepage.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/home.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/styles/custom-sample.css",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/launch/index.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/launch/style.css",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/launch/ftpsync.settings",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/index.php",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/test.pop",
+		"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus/tpl-launch-page.php",
+		"/Users/andreabarghigiani/Library/Application Support/Sublime Text 2/Packages/User/FTPSync.sublime-settings",
+		"/tmp/subl stdin lfemif.txt",
+		"/Volumes/Sviluppo/www/csshero_test/wp-content/themes/spun/style.css",
+		"/Users/andreabarghigiani/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/Sviluppo/www/trueIdeaMus/wp-content/themes/ideamus",
+			"/Volumes/Sviluppo/www/new-ideamus/wp-content/themes/ideamus",
+			"/Volumes/Sviluppo/www/ideamus/wp-content/themes/ideamus",
+			"*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"php",
+			"the_author_posts_link",
+			"\n",
+			"add_action( 'appthemes_after",
+			"add_action",
+			"add_action appthemes_after_post_title",
+			"appthemes_after_post_title",
+			"cp_ad_loop_thumbnail",
+			"cp_ad_loop_thumbnail();",
+			"cp_ad_featured_thumbnail",
+			"_e",
+			"is_p",
+			"register_taxonomy",
+			"appthemes_after_",
+			"appthemes_after_post_title",
+			"cp_show_refine_search",
+			"refine",
+			"widget",
+			"post im",
+			"cp_get_featured_slider_ads",
+			"query",
+			"Query",
+			"query",
+			"featured_trim",
+			"add",
+			"add_image_size",
+			"cp_ad_featured_thumbnail",
+			"#sliderlist",
+			"sliderli",
+			"slider_top",
+			".searchba",
+			"searchbar",
+			".form_search input#s",
+			".searchfield",
+			"search-bar",
+			".form_search input#s",
+			"#s",
+			"searchfield",
+			"searchblock",
+			"search-b",
+			"940",
+			":hover",
+			"left",
+			"cp_dropdown_search_bar_args",
+			"classi",
+			"search-ba",
+			"templ",
+			"is_templ",
+			"jcarousellite",
+			"virtual",
+			"jCarouselLite",
+			"menu",
+			"header_top",
+			"header_menu_res",
+			"940",
+			"cp_display_style",
+			"post-bl",
+			"post-blo",
+			"tiny",
+			"yellow",
+			"min",
+			"menu_res",
+			"menu",
+			"tinyn",
+			"tiny",
+			"tinyn",
+			"max",
+			"media",
+			"cp_login_head",
+			"get_header",
+			"opaci"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"thfun",
+				"ideamus/includes/theme-functions.php"
+			],
+			[
+				"fun",
+				"ideamus/functions.php"
+			],
+			[
+				"looad",
+				"ideamus/loop-ad_listing.php"
+			],
+			[
+				"fea",
+				"ideamus/featured.php"
+			],
+			[
+				"func",
+				"ideamus/functions.php"
+			],
+			[
+				"mo",
+				"trueIdeaMus/Movefile"
+			],
+			[
+				"there",
+				"ideamus/includes/theme-refine.php"
+			],
+			[
+				"side",
+				"ideamus/sidebar.php"
+			],
+			[
+				"to",
+				"ideamus/includes/theme-options.php"
+			],
+			[
+				"page",
+				"ideamus/page-5.php"
+			],
+			[
+				"themfun",
+				"ideamus/includes/theme-functions.php"
+			],
+			[
+				"thre",
+				"ideamus/includes/theme-refine.php"
+			],
+			[
+				"refi",
+				"ideamus/includes/theme-refine.php"
+			],
+			[
+				"move",
+				"trueIdeaMus/Movefile"
+			],
+			[
+				"st",
+				"ideamus/style.css"
+			],
+			[
+				"eveli",
+				"ideamus/plugins/events-manager/templates/events-list.php"
+			],
+			[
+				"eve",
+				"ideamus/events-manager/templates/events-list.php"
+			],
+			[
+				"thefun",
+				"ideamus/includes/theme-functions.php"
+			],
+			[
+				"ba",
+				"ideamus/sass/base.scss"
+			],
+			[
+				"tphom",
+				"ideamus/tpl-homepage.php"
+			],
+			[
+				"thefu",
+				"ideamus/includes/theme-functions.php"
+			],
+			[
+				"functions.p",
+				"ideamus/functions.php"
+			],
+			[
+				"wpc",
+				"trueIdeaMus/wp-config.php"
+			],
+			[
+				"wra",
+				"ideamus/wrapper.php"
+			],
+			[
+				"wr",
+				"ideamus/wrapper.php"
+			],
+			[
+				"hom",
+				"ideamus/tpl-homepage.php"
+			],
+			[
+				"w",
+				"ideamus/wrapper.php"
+			],
+			[
+				"feat",
+				"ideamus/featured.php"
+			],
+			[
+				"looa",
+				"ideamus/loop-ad_listing.php"
+			],
+			[
+				"loopli",
+				"ideamus/loop-ad_listing.php"
+			],
+			[
+				"tplads",
+				"ideamus/tpl-ads-home.php"
+			],
+			[
+				"home",
+				"ideamus/tpl-homepage.php"
+			],
+			[
+				"sty",
+				"ideamus/style.css"
+			],
+			[
+				"rem",
+				"ideamus/removed_responsive.css"
+			],
+			[
+				"sear",
+				"ideamus/includes/theme-searchbar.php"
+			],
+			[
+				"bas",
+				"ideamus/sass/base.scss"
+			],
+			[
+				"hea",
+				"ideamus/header.php"
+			],
+			[
+				"scu",
+				"ideamus/styles/scustom.css"
+			],
+			[
+				"ftp",
+				"ideamus/ftpsync.settings"
+			],
+			[
+				"800",
+				"ideamus/sass/800top.scss"
+			],
+			[
+				"940",
+				"ideamus/sass/940top.scss"
+			],
+			[
+				"he",
+				"ideamus/header.php"
+			],
+			[
+				"tpls",
+				"ideamus/tpl-submenu-search.php"
+			],
+			[
+				"",
+				"ideamus/tpl-homepage.php"
+			],
+			[
+				"themse",
+				"ideamus/includes/theme-searchbar.php"
+			],
+			[
+				"tplas",
+				"ideamus/tpl-ads-home.php"
+			],
+			[
+				"tplh",
+				"wp-content/themes/ideamus/tpl-homepage.php"
+			],
+			[
+				"base",
+				"wp-content/themes/ideamus/sass/base.scss"
+			],
+			[
+				"600",
+				"ideamus/sass/600top.scss"
+			],
+			[
+				"32",
+				"ideamus/sass/320top.scss"
+			],
+			[
+				"400",
+				"ideamus/sass/400top.scss"
+			],
+			[
+				"94",
+				"ideamus/sass/940top.scss"
+			],
+			[
+				"80",
+				"ideamus/sass/800up.scss"
+			],
+			[
+				"60",
+				"ideamus/sass/600up.scss"
+			],
+			[
+				"40",
+				"ideamus/404.php"
+			],
+			[
+				"style",
+				"ideamus/style.css"
+			],
+			[
+				"heade",
+				"ideamus/header.php"
+			],
+			[
+				".css",
+				"launch/style.css"
+			],
+			[
+				"tplho",
+				"ideamus/tpl-ads-home.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Sviluppo/www/trueIdeaMus/trueIdeaMus.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true
+}
