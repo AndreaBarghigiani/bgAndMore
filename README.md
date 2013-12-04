@@ -1,5 +1,5 @@
 # AndMore
-__Il tema di partenza per il netword AndMore__
+__Il tema di partenza per il network AndMore__
 
 Questo sara' il tema di partenza di questo network, se vuoi seguire gli sviluppi o 
 partecipare, sei il benvenuto!
